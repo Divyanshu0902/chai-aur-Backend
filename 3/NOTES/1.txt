@@ -1,0 +1,4 @@
+Video - 3
+https://youtu.be/fFHyqhmnVfs?t=2568
+-- Bad Practice of putting the Build folder under backend folder and pushing it to server.
+
