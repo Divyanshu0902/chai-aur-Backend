@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "simple fullstack project",
+  "keywords": [
+    "backend"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Divyanshu0902/chai-aur-Backend/3/backend"
+  },
+  "license": "ISC",
+  "author": "Divyanshu Kumar",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
